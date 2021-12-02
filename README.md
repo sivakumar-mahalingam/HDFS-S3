@@ -1,2 +1,2 @@
 # HDFS <-> S3
-Upload and Download files (AWS S3 &lt;-> HDFS)
+Python script to Upload/Download files to AWS S3 from HDFS
